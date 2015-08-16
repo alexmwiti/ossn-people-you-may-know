@@ -1,0 +1,15 @@
+?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>people you may know</name>
+    <id>new_component</id>
+    <author>alexmwiti</author>
+    <description>finds friends of your friends.</description>
+    <license>License name</license>
+    <author_url>http://www.authorurl.com</author_url>
+    <license_url>www.vivekijiji.com</license_url>
+    <version>Version of component</version>
+    <requires>
+        <type>ossn_version</type>
+        <version>3.0</version>
+    </requires>
+</component>
